@@ -1,0 +1,734 @@
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-04T20:47:34.631Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-04T20:47:34.670Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T15:50:05.182Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T15:50:05.205Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T15:51:16.299Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T15:51:16.315Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T15:53:45.618Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T15:53:45.633Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T15:53:51.588Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T15:53:51.604Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:00:45.124Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:00:45.140Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:02:22.364Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:02:22.374Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:03:01.231Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:03:01.245Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:03:22.611Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:03:22.620Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:07:25.160Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:07:25.169Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:07:45.403Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:07:45.412Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:30:48.726Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:30:48.738Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:31:20.058Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:31:20.074Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:31:28.379Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:31:28.387Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:35:44.973Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:35:44.982Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:36:33.466Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:36:33.479Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:38:44.756Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T16:38:44.770Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T21:12:38.699Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T21:12:38.738Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T09:55:20.829Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T09:55:20.872Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T09:56:40.199Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T09:56:40.240Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T09:58:17.020Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T09:58:17.075Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:00:16.181Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:00:16.224Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:00:53.552Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:00:53.592Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:07:42.543Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:07:42.583Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:07:52.001Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:07:52.044Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:10:12.147Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:10:12.184Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:10:25.675Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:10:25.732Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:17:00.626Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:17:00.673Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:17:23.663Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:17:23.704Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:28:44.425Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:28:44.460Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:29:59.487Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:29:59.532Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:30:32.626Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:30:32.680Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:31:26.445Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:31:26.494Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:47:59.299Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:47:59.351Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:51:23.033Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:51:23.099Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:54:27.302Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T10:54:27.368Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T11:00:15.881Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T11:00:15.943Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T11:01:19.176Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T11:01:19.210Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:14:22.361Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:14:22.379Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:16:36.814Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:16:36.845Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:17:02.940Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:17:02.986Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:27:18.732Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:27:18.756Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:27:42.628Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:27:42.665Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:29:16.327Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:29:16.362Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:29:39.263Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:29:39.309Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:33:35.603Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:33:35.644Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:34:28.007Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:34:28.048Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:35:12.678Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:35:12.717Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:36:35.056Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T12:36:35.101Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T13:31:37.728Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T13:31:37.746Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T13:34:53.260Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T13:34:53.277Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T13:36:24.116Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T13:36:24.132Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T13:36:41.732Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-09T13:36:41.742Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T18:58:28.877Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T18:58:28.917Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T18:58:44.850Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T18:58:44.903Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:07:35.327Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:07:35.370Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:09:26.991Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:09:27.017Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:09:34.270Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:09:34.309Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:20:17.753Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:20:17.791Z'
+}
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:24:46.064Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-10T19:24:46.118Z'
+}
+Sun Jun 11 2023 1:53:54 [UM] info: Database connected 🛢🔥🛢🔥🛢
+Sun Jun 11 2023 1:53:54 [UM] info: The server is listening on port http://localhost:8080
+Sun Jun 11 2023 1:54:43 [UM] info: Database connected 🛢🔥🛢🔥🛢
+Sun Jun 11 2023 1:54:44 [UM] info: The server is listening on port http://localhost:8080
+Sun Jun 11 2023 1:57:45 [UM] info: Database connected 🛢🔥🛢🔥🛢
+Sun Jun 11 2023 1:57:45 [UM] info: The server is listening on port http://localhost:8080
+Mon Jun 12 2023 0:47:5 [UM] info: Database connected 🛢🔥🛢🔥🛢
+Mon Jun 12 2023 0:47:5 [UM] info: The server is listening on port http://localhost:8080
+Mon Jun 12 2023 2:0:45 [UM] info: Database connected 🛢🔥🛢🔥🛢
+Mon Jun 12 2023 2:0:45 [UM] info: The server is listening on port http://localhost:8080
+Mon Jun 12 2023 2:7:4 [UM] info: Database connected 🛢🔥🛢🔥🛢
+Mon Jun 12 2023 2:7:4 [UM] info: The server is listening on port http://localhost:8080
+Mon Jun 12 2023 2:10:26 [UM] info: Database connected 🛢🔥🛢🔥🛢
+Mon Jun 12 2023 2:10:26 [UM] info: The server is listening on port http://localhost:8080

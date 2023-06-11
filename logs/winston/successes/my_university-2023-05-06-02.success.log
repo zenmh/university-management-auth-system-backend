@@ -1,0 +1,12 @@
+{
+  message: 'Database connected 🛢🔥🛢🔥🛢',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-04T20:47:34.631Z'
+}
+{
+  message: 'The server is listening on port http://localhost:8080',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-04T20:47:34.670Z'
+}
