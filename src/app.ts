@@ -11,10 +11,8 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Test route
-app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+app.get('/', async (req: Request, res: Response) => {
   res.json('The server is running 🔥💧🔥');
-
-  next();
 });
 
 app.use('/api/v1', routes);
