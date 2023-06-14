@@ -6,7 +6,6 @@ type IUser = {
   password: string;
 };
 
-// type UserModel = Model<IUser, object>
-type UserModel = Model<IUser, Record<string, unknown>>; // that I take from 12-10 module or 13-1
+type UserModel = Model<IUser, Record<string, unknown>>;
 
 export { IUser, UserModel };
