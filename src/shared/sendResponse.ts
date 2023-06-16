@@ -17,11 +17,9 @@ const sendResponse = <T>(res: Response, data: ISendResponse<T>): void => {
     statusCode: data.statusCode,
     success: data.success,
     message: data?.message || null,
-    meta: data.meta || null,
+    meta: data.meta || null || undefined,
     data: data?.data || null,
   };
-
-  // there should have a return
 
   res.status(data.statusCode).json(response);
 };
