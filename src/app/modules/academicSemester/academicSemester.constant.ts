@@ -33,9 +33,20 @@ const AcademicSemesterTitleAndCodeMapping: { [key: string]: string } = {
   Fall: '03',
 };
 
+const AcademicSemesterFilterableFields = [
+  'searchTerm',
+  'title',
+  'year',
+  'code',
+];
+
+const AcademicSemesterSearchableFields = ['title', 'code', 'year'];
+
 export {
   AcademicSemesterTitles,
   AcademicSemesterCodes,
   AcademicSemesterMonths,
   AcademicSemesterTitleAndCodeMapping,
+  AcademicSemesterFilterableFields,
+  AcademicSemesterSearchableFields,
 };

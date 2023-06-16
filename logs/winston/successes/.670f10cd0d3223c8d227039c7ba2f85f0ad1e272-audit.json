@@ -59,6 +59,36 @@
             "date": 1686895219381,
             "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-16-06-12.success.log",
             "hash": "86a93badaa5568ca0f0ea06e0aab7b11cbdd120a51a00c8fd1461fb2f367fc1b"
+        },
+        {
+            "date": 1686922305708,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-16-06-19.success.log",
+            "hash": "3ee19363b1a9e761a21f5dc1585555a5f5831cb378393b7701a7afb196f9d1d3"
+        },
+        {
+            "date": 1686924747097,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-16-06-20.success.log",
+            "hash": "61c015ac448112277817514df4229026cd90cc19176f123e44cb847a18b468c1"
+        },
+        {
+            "date": 1686928237284,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-16-06-21.success.log",
+            "hash": "94ed56bb446eca5b1c0cfc1014b30cdb394a7accc56983f6d503f12955ef3ff6"
+        },
+        {
+            "date": 1686932820737,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-16-06-22.success.log",
+            "hash": "dc5b1bc2ffc76e61a9b0f6e1628b714b20a4c3b2acf2204e4b4cde96564de434"
+        },
+        {
+            "date": 1686937074758,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-16-06-23.success.log",
+            "hash": "a8e9106a1a6b6185086be700d19d5c4212fdb1be3b63c7c053def8b71996b456"
+        },
+        {
+            "date": 1686939423685,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-17-06-00.success.log",
+            "hash": "f6af233440b721a8078ed25161ffc5c0ea3d7c24c896b4045467b92cd701bf34"
         }
     ],
     "hashType": "sha256"
