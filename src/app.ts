@@ -15,6 +15,7 @@ app.get('/', async (req: Request, res: Response) => {
   res.json('The server is running 🔥💧🔥');
 });
 
+// Routes
 app.use('/api/v1', routes);
 
 // Global Error Handler
