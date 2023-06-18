@@ -18,7 +18,7 @@ const createSemester = catchAsync(async (req: Request, res: Response) => {
   sendResponse<IAcademicSemester>(res, {
     statusCode: OK,
     success: true,
-    message: 'Academic semester created successfully',
+    message: 'Academic semester created successfully !',
     data: result,
   });
 });
@@ -42,9 +42,7 @@ const getAllSemesters = catchAsync(async (req: Request, res: Response) => {
 });
 
 const getSingleSemester = catchAsync(async (req: Request, res: Response) => {
-  const id = req.params.id;
-
-  const result = await AcademicSemesterService.getSingleSemester(id);
+  const result = await AcademicSemesterService.getSingleSemester(req.params.id);
 
   sendResponse<IAcademicSemester>(res, {
     statusCode: OK,

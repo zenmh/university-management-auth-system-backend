@@ -109,6 +109,36 @@
             "date": 1687012995867,
             "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\errors\\my_university-2023-17-06-20.error.log",
             "hash": "3db6b30ff212f98b7cfdbb2433c815534bb625be65d6d43b05a8025df598c21d"
+        },
+        {
+            "date": 1687015837493,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\errors\\my_university-2023-17-06-21.error.log",
+            "hash": "b452eec3bc6b942198b84f623faec71740f9a2e5a19fab4bb90bfc36a5ad9ca2"
+        },
+        {
+            "date": 1687017892177,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\errors\\my_university-2023-17-06-22.error.log",
+            "hash": "1446d11081519d0c2d9345697f3ed5c04f8ad3358b65ea773089037f2b73dc02"
+        },
+        {
+            "date": 1687021744538,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\errors\\my_university-2023-17-06-23.error.log",
+            "hash": "f19bfc246a3b999448257826c65c76223abe670a628ca8c9ddd7d6db698bf2de"
+        },
+        {
+            "date": 1687025396538,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\errors\\my_university-2023-18-06-00.error.log",
+            "hash": "9e5497d01840a48b827a01853b406d2bd98c4c3da705386b158dcc920b232f67"
+        },
+        {
+            "date": 1687105668353,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\errors\\my_university-2023-18-06-22.error.log",
+            "hash": "8b76835465ec0c0e2cc40ded9c0ecf762ff0ff0299a7f649a02716cce5d4b470"
+        },
+        {
+            "date": 1687107897089,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\errors\\my_university-2023-18-06-23.error.log",
+            "hash": "61fad3d7a6e60c1bf5a65772fbed41467b76278f809276f68ba59f55b6421e10"
         }
     ],
     "hashType": "sha256"
