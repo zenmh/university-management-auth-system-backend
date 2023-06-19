@@ -10,14 +10,16 @@ const findLastStudentId = async (): Promise<string | undefined> => {
   return lastStudent?.id ? lastStudent.id.substring(4) : undefined;
 };
 
-const generateStudentId = async (academicSemester: IAcademicSemester) => {
+const generateStudentId = async (
+  academicSemester: IAcademicSemester | null
+) => {
   const currentId =
     (await findLastStudentId()) || (0).toString().padStart(5, '0');
 
   let incrementedId = (parseInt(currentId) + 1).toString().padStart(5, '0');
 
-  incrementedId = `${academicSemester.year.substring(2)}${
-    academicSemester.code
+  incrementedId = `${academicSemester?.year.substring(2)}${
+    academicSemester?.code
   }${incrementedId}`;
 
   return incrementedId;
