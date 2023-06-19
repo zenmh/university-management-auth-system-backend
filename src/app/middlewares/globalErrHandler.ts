@@ -12,6 +12,7 @@ const globalErrHandler: ErrorRequestHandler = (
   err,
   req: Request,
   res: Response
+  // next: NextFunction
 ) => {
   config.env === 'development'
     ? console.log('globalErrorHandler ~ 💀😈💀', err)
@@ -19,27 +20,27 @@ const globalErrHandler: ErrorRequestHandler = (
 
   let statusCode = 500;
   let message = 'Something went wrong !!';
-  let errorMessage: IGenericErrorMessage[] = [];
+  let errorMessages: IGenericErrorMessage[] = [];
 
   if (err?.name === 'ValidationError') {
     const simplefiedError = handleValidationError(err);
     statusCode = simplefiedError?.statusCode;
     message = simplefiedError?.message;
-    errorMessage = simplefiedError?.errorMessages;
+    errorMessages = simplefiedError?.errorMessages;
   } else if (err instanceof ZodError) {
     const simplefiedError = handleZodError(err);
     statusCode = simplefiedError?.statusCode;
     message = simplefiedError?.message;
-    errorMessage = simplefiedError?.errorMessages;
+    errorMessages = simplefiedError?.errorMessages;
   } else if (err?.name === 'CastError') {
     const simplefiedError = handleCastError(err);
     statusCode = simplefiedError?.statusCode;
     message = simplefiedError?.message;
-    errorMessage = simplefiedError?.errorMessages;
+    errorMessages = simplefiedError?.errorMessages;
   } else if (err instanceof ApiErr) {
     statusCode = err?.statusCode;
     message = err?.message;
-    errorMessage = err?.message
+    errorMessages = err?.message
       ? [
           {
             path: '',
@@ -49,7 +50,7 @@ const globalErrHandler: ErrorRequestHandler = (
       : [];
   } else if (err instanceof Error) {
     message = err?.message;
-    errorMessage = err?.message
+    errorMessages = err?.message
       ? [
           {
             path: '',
@@ -62,7 +63,7 @@ const globalErrHandler: ErrorRequestHandler = (
   res.status(statusCode).json({
     success: false,
     message,
-    errorMessage,
+    errorMessages,
     stack: config.env !== 'production' ? err?.stack : undefined,
   });
 };

@@ -3,7 +3,6 @@ import cors from 'cors';
 import globalErrHandler from './app/middlewares/globalErrHandler';
 import { routes } from './app/routes';
 import { NOT_FOUND } from 'http-status';
-// import { generateStudentId } from './app/modules/user/user.utils';
 
 const app: Application = express();
 
@@ -34,12 +33,5 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 
   next();
 });
-
-// const testfunc = async () => {
-//   const testdata = { year: '2025', code: '02' };
-//   const testId = await generateStudentId(testdata);
-// };
-
-// testfunc();
 
 export default app;

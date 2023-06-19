@@ -1,0 +1,6 @@
+{
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-06-19T09:31:11.437Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
