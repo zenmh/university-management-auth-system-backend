@@ -8,18 +8,25 @@ import { FacultyController } from './faculty.controller';
 
 const router = Router();
 
+// Create
 router.post(
   '/create_faculty',
   validateRequest(createFacultyZodSchema),
   FacultyController.createFaculty
 );
-router.get('/:id', FacultyController.getSingleFaculty);
+
+// Update
 router.patch(
   '/:id',
   validateRequest(updateFacultyZodSchema),
   FacultyController.updateFaculty
 );
+
+// Delete
 router.delete('/:id', FacultyController.deleteFaculty);
+
+// Read
+router.get('/:id', FacultyController.getSingleFaculty);
 router.get('/', FacultyController.getAllFaculties);
 
 export const FacultyRoutes = router;

@@ -25,7 +25,7 @@ router.patch(
 // Delete
 router.delete('/:id', DepertmentController.deleteDepertment);
 
-// Get
+// Read
 router.get('/:id', DepertmentController.getSingleDepertment);
 router.get('/', DepertmentController.getAllDepertments);
 

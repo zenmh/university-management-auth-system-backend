@@ -47,4 +47,13 @@ type IStudent = {
 
 type StudentModel = Model<IStudent, Record<string, unknown>>;
 
-export { IStudent, StudentModel };
+type IStudentFilters = {
+  searchTerm?: string;
+  id?: string;
+  bloodGroup?: 'A+' | 'A-' | 'B+' | 'B-' | 'AB+' | 'AB-' | 'O+' | 'O-';
+  email?: string;
+  contactNo?: string;
+  emergencyContactNo?: string;
+};
+
+export { IStudent, StudentModel, IStudentFilters };

@@ -1,4 +1,9 @@
-import { ErrorRequestHandler, Request, Response } from 'express';
+import {
+  ErrorRequestHandler,
+  // NextFunction,
+  Request,
+  Response,
+} from 'express';
 import { IGenericErrorMessage } from '../../interfaces/error';
 import config from '../../config';
 import handleValidationError from '../../errs/handleValidationError';
