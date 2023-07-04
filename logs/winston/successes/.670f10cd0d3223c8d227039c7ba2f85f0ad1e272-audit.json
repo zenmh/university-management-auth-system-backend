@@ -6,14 +6,34 @@
     "auditLog": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\.670f10cd0d3223c8d227039c7ba2f85f0ad1e272-audit.json",
     "files": [
         {
-            "date": 1687167020057,
-            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-19-06-15.success.log",
-            "hash": "145e09d442cac90dc7e21eca68bc488bba4e6ca9791a0e089ebb16e98bfa6116"
+            "date": 1687795937237,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-26-06-22.success.log",
+            "hash": "a3280ac9b1eb41c077dc383733ace317ea62a97bdc14da2f15144fc9d21d2646"
         },
         {
-            "date": 1687169166937,
-            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-19-06-16.success.log",
-            "hash": "b0028659a2419e57d318d9af6fc3c27c6d860d73bcf631f55617f8babcfb9d7b"
+            "date": 1688145605885,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-30-06-23.success.log",
+            "hash": "a42f19f7cc1a03c02027ce86b83b4f90b12ffe5455f007a2d9df5dfe77d860b9"
+        },
+        {
+            "date": 1688478586740,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-04-07-19.success.log",
+            "hash": "db1fa222a434b5339d9ccce33e1744d63a7ee91ebc48a0456971f66abede736b"
+        },
+        {
+            "date": 1688480108816,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-04-07-20.success.log",
+            "hash": "c4354bbd7785c8efcf28447769c75f1e93557e03b1bc912a44d12e603ec50eef"
+        },
+        {
+            "date": 1688482806015,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-04-07-21.success.log",
+            "hash": "0866f0fc0031980409f389ca68c7500b187e2270e0c0b987049050e3c5e81b44"
+        },
+        {
+            "date": 1688486721377,
+            "name": "D:\\next-level-web-dev\\university-management-auth-system\\logs\\winston\\successes\\my_university-2023-04-07-22.success.log",
+            "hash": "c6746dbe65712331ab6de25630b30b71e917958ccc56a660a09d0b812d97ad97"
         }
     ],
     "hashType": "sha256"

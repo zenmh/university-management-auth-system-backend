@@ -1,7 +1,7 @@
 import { z } from 'zod';
 import { bloodGroup, gender } from '../student/student.constant';
 
-const createStudentZodSchema = z.object({
+const createUserZodSchema = z.object({
   body: z.object({
     password: z.string().optional(),
     student: z.object({
@@ -73,4 +73,46 @@ const createStudentZodSchema = z.object({
   }),
 });
 
-export const UserValidation = { createStudentZodSchema };
+const createTeacherZodSchema = z.object({
+  body: z.object({
+    password: z.string().optional(),
+
+    teacher: z.object({
+      name: z.object({
+        firstName: z.string({
+          required_error: 'Fist name is required !',
+        }),
+        middleName: z.string().optional(),
+        lastName: z.string({ required_error: 'Last name is required !' }),
+      }),
+      gender: z.string({
+        required_error: 'Gender is required !',
+      }),
+      dateOfBirth: z.string({ required_error: 'Date of Birth is required !' }),
+      email: z.string({ required_error: 'Email is required !' }).email(),
+      contactNo: z.string({
+        required_error: 'Contact no is required !',
+      }),
+      emergencyContactNo: z.string({
+        required_error: 'Emergency contact number is required !',
+      }),
+      bloodGroup: z
+        .string({ required_error: 'Blood group is required !' })
+        .optional(),
+      presentAddress: z.string({
+        required_error: 'Present address is required !',
+      }),
+      permanentAddress: z.string({
+        required_error: 'Permanent address is required !',
+      }),
+      depertment: z.string({ required_error: 'Depertment is required !' }),
+      faculty: z.string({ required_error: 'Faculty is required !' }),
+      designation: z.string({ required_error: 'Designation is required !' }),
+      profileImage: z
+        .string({ required_error: 'Profile image is required !' })
+        .optional(),
+    }),
+  }),
+});
+
+export const UserValidation = { createUserZodSchema, createTeacherZodSchema };

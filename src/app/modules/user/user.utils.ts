@@ -26,21 +26,21 @@ const generateStudentId = async (
 };
 
 // Faculty ------------------------------------------->
-const findLastFacultyId = async (): Promise<string | undefined> => {
-  const lastFaculty = await User.findOne({ role: 'faculty' }, { _id: 0, id: 1 })
+const findLastTeacherId = async (): Promise<string | undefined> => {
+  const lastFaculty = await User.findOne({ role: 'teacher' }, { _id: 0, id: 1 })
     .sort({ createdAt: -1 })
     .lean();
 
   return lastFaculty?.id ? lastFaculty.id.substring(2) : undefined;
 };
 
-const generateFacultyId = async () => {
+const generateTeacherId = async () => {
   const currentId =
-    (await findLastFacultyId()) || (0).toString().padStart(5, '0');
+    (await findLastTeacherId()) || (0).toString().padStart(5, '0');
 
   let incrementedId = (parseInt(currentId) + 1).toString().padStart(5, '0');
 
-  incrementedId = `F-${incrementedId}`;
+  incrementedId = `T-${incrementedId}`;
 
   return incrementedId;
 };
@@ -65,4 +65,4 @@ const generateAdminId = async (): Promise<string | undefined> => {
   return incrementedId;
 };
 
-export { generateStudentId, generateFacultyId, generateAdminId };
+export { generateStudentId, generateTeacherId, generateAdminId };
