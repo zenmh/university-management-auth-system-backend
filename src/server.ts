@@ -14,7 +14,7 @@ process.on('uncaughtException', err => {
 const run = async () => {
   try {
     await mongoose.connect(config.database_uri as string);
-    logger.info('Database connected 🛢  🛢  🛢');
+    logger.info('Database connected 🛢 🛢 🛢');
 
     server = app.listen(config.port, () => {
       logger.info(

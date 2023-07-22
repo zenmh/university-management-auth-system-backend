@@ -61,4 +61,12 @@ const getAllTeachers = async (
   };
 };
 
-export const TeacherService = { getAllTeachers };
+const getSingleTeacher = async (id: string): Promise<ITeacher | null> => {
+  const result = await Teacher.findOne({ _id: id })
+    .populate('depertment')
+    .populate('faculty');
+
+  return result;
+};
+
+export const TeacherService = { getAllTeachers, getSingleTeacher };
